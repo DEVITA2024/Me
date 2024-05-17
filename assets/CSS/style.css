@@ -69,7 +69,7 @@ ul,li{
 .project-list{
        padding: 0px;
 }
-.project-list-item{
+.project-list-item{ 
        display: flex;
        justify-content: space-between;
        margin-bottom: 10px;
